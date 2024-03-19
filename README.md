@@ -98,7 +98,7 @@ void push_button()
 
 ![image](https://github.com/dhivyapriyar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477552/12d5a7ff-be2a-4e98-91e4-b7fe566d8337)
 
-![Uploading image.png…]()
+![image](https://github.com/dhivyapriyar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477552/2b450c1a-9718-4e8e-929e-f6d3a5ec6012)
 
 ## Result :
 
